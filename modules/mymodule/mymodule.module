@@ -1,0 +1,25 @@
+<?php
+
+/**
+ * Implements hook_theme().
+ */
+
+function mymodule_theme($existing, $type, $theme, $path) {
+  return [
+    'blockitemlist'=>[
+    	'variables' =>[
+    		'items' => '',
+    	],
+    	'template' => 'blockitemlist',
+    ],
+
+    'mypage' =>[
+    	'variables' =>[
+    		'markup' => '',
+    	],
+    	'template' => 'mypage',
+    ],
+  ];
+}
+
+ ?>

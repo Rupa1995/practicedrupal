@@ -1,0 +1,10 @@
+<p>
+	 <span><h2>drupal</h2></span>
+	{% if items %}
+		<ul>
+			{% for val in items %}
+				<a href=" {{ val.url }}"><li>{{ val.title }}</li></a>
+			{%- endfor -%}
+		</ul>
+	{%- endif -%}
+ </p>

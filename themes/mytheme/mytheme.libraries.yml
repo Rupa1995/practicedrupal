@@ -1,0 +1,15 @@
+global-styling:
+  css:
+    theme:
+      css/style.css: {}
+  js: 
+    js/scripts.js: {}
+  dependencies:
+    - core/jquery
+
+home-styling:
+  css:
+    theme:
+      css/home.css: {}
+  js:
+    js/homescript.js: {}
