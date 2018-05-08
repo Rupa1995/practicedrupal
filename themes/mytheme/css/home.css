@@ -1,21 +1,3 @@
 body{
 	background: #d6cbcb;
 }
-.search-block-form, #block-mytheme-tools, #block-blogtitle-2 ,#block-mytheme-views-block-blog-events-added-block-1{
-	border: 1px solid gray;
-	border-radius: 5px;
-	margin-bottom: 5px;
-	padding-left: 10px;
-	padding-bottom: 10px;
-}
-#sidebar-first{
-	margin-top: 10px;
-	float: left;
-	width: 25%;
-	
-}
-#sidebar-second{
-	margin-top: 10px;
-	float: right;
-	width: 25%;
-}
