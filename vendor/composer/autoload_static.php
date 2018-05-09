@@ -23,10 +23,6 @@ class ComposerStaticInitDrupal8
         array (
             'phpDocumentor\\Reflection\\' => 25,
         ),
-        'l' => 
-        array (
-            'libphonenumber\\' => 15,
-        ),
         'Z' => 
         array (
             'Zumba\\Mink\\Driver\\' => 18,
@@ -86,7 +82,6 @@ class ComposerStaticInitDrupal8
             'GuzzleHttp\\Promise\\' => 19,
             'GuzzleHttp\\' => 11,
             'Goutte\\' => 7,
-            'Giggsey\\Locale\\' => 15,
         ),
         'D' => 
         array (
@@ -144,10 +139,6 @@ class ComposerStaticInitDrupal8
             0 => __DIR__ . '/..' . '/phpdocumentor/reflection-common/src',
             1 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
             2 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
-        ),
-        'libphonenumber\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/giggsey/libphonenumber-for-php/src',
         ),
         'Zumba\\Mink\\Driver\\' => 
         array (
@@ -304,10 +295,6 @@ class ComposerStaticInitDrupal8
         'Goutte\\' => 
         array (
             0 => __DIR__ . '/..' . '/fabpot/goutte/Goutte',
-        ),
-        'Giggsey\\Locale\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/giggsey/locale/src',
         ),
         'Drupal\\Driver\\' => 
         array (

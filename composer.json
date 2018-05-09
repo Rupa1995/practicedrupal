@@ -13,7 +13,6 @@
         "composer/installers": "^1.0.24",
         "drupal/devel": "^1.2",
         "drupal/panels": "^4.3",
-        "drupal/telephone_type": "^3.1",
         "drupal/webform": "^5.0@RC",
         "jquery/geocomplete": "1.7.0",
         "jquery/image-picker": "0.3.0",
@@ -27,7 +26,8 @@
         "progress-tracker/progress-tracker": "1.4.0",
         "signature_pad/signature_pad": "2.3.0",
         "wikimedia/composer-merge-plugin": "^1.4",
-        "drupal/admin_toolbar": "^1.23"
+        "drupal/admin_toolbar": "^1.23",
+        "drupal/bootstrap": "^3.11"
     },
     "replace": {
         "drupal/core": "^8.5"
